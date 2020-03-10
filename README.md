@@ -17,3 +17,7 @@ alterar o index.js 'CONNECT WITH mongoDB_url' pela url do seu bando MongoDB
 <h3>Api</h3>
 <h3>express</h3>
 <h3>websocket</h3>
+
+# Publicação no Linkedin <br/>
+
+https://www.linkedin.com/feed/update/urn:li:activity:6643172337770340352/
